@@ -11,10 +11,10 @@ logging@1.0.7
 meteor@1.1.6
 minimongo@1.0.8
 mongo@1.1.0
+okland:push@2.6.7
 ordered-dict@1.0.3
 raix:eventemitter@0.1.2
 raix:eventstate@0.0.2
-raix:push@2.6.7-pre.1
 random@1.0.3
 retry@1.0.3
 tracker@1.0.7

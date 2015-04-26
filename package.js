@@ -14,7 +14,7 @@ Npm.depends({
 
 Cordova.depends({
     // Don't reset badge notification
-    'com.phonegap.plugins.PushPlugin': 'https://github.com/raix/PushPlugin/tarball/9abcea250b177cdfb8231fe38ebd931ecca3c786'
+    'com.phonegap.plugins.PushPlugin': 'https://github.com/raix/PushPlugin/tarball/7032725f1f82ba5ef1a46153e692136fc64bded1'
 
     // Fix ios 7 and ios in general
     //'com.phonegap.plugins.PushPlugin': 'https://github.com/raix/PushPlugin/tarball/c4e3aa69c66bde45472e81ac303a9e39020c9cc7'
