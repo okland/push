@@ -1,6 +1,6 @@
 Package.describe({
     name   : 'okland:push',
-    version: '2.6.7-pre.1',
+    version: '2.6.8-pre.1',
     summary: 'Isomorphic Push notifications for APN and GCM',
     git    : 'https://github.com/okland/push.git'
 });
